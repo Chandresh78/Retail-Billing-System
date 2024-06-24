@@ -1,5 +1,5 @@
 ```markdown
-# Retail Billing System
+## Retail Billing System
 
 ## Introduction
 This project is a Retail Billing System developed using Python's Tkinter library. It provides a user-friendly interface for managing billing operations in a retail store.
@@ -24,9 +24,6 @@ The Retail Billing System provides the following functionality:
 ## Usage
 To run the Retail Billing System, execute the `main.py` file using Python. Make sure you have Python installed on your system.
 
-```bash
-python main.py
-```
 
 ## Dependencies
 The project relies on the following Python libraries:
@@ -38,5 +35,3 @@ These libraries are commonly available with Python installations and do not requ
 
 ## Contributors
 This project was developed by Chandresh Rajpoot.
-
-```
