@@ -1,7 +1,6 @@
 ## Retail Billing System
 
-## Introduction
-This project is a Retail Billing System developed using Python's Tkinter library. It provides a user-friendly interface for managing billing operations in a retail store.
+This project is developed using Python's Tkinter library. It provides a user-friendly interface for managing billing operations in a retail store.
 
 ## Files
 1. **main.py**: This file contains the source code for the Retail Billing System. It is written in Python and utilizes Tkinter for the graphical user interface.
