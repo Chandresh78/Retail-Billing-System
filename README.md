@@ -1,4 +1,3 @@
-```markdown
 ## Retail Billing System
 
 ## Introduction
